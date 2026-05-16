@@ -1,0 +1,14 @@
+node_modules/
+.expo/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.pptx
+cleanup.py
+.claude/
+Presentation_Script.txt
+create_presentation.js
+APIs.ipynb
+package.json
+package-lock.json
